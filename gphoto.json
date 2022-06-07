@@ -1,0 +1,8 @@
+{
+	"access_token": "---OMITTED---",
+	"refresh_token": "---OMITTED---",
+	"scope": "https://www.googleapis.com/auth/photoslibrary.appendonly",
+    "client_id": "---OMITTED---",
+    "client_secret": "---OMITTED---",
+	"album_id": "---OMITTED---"
+}
